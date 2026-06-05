@@ -136,7 +136,7 @@ Customer Analytics Dashboard Summary
 KPI explanations
 Business questions & insights
 Chart interpretation
-[Customer Analytics Dashboard Documentation](docs/Customer_Analytics_Dashboard_Summary.pdf)
+[Customer Analytics Dashboard Documentation](Dashboards/Customer Analytics Dashboard Documentation.pdf)
 
 ---
 
@@ -173,7 +173,7 @@ Product Analytics Dashboard Summary
 Detailed KPI explanations
 Business insights
 Chart-level analysis
-[Product Analytics Dashboard Documentation](docs/Product_Analytics_Dashboard_Summary.pdf)
+[Product Analytics Dashboard Documentation](Dashboards/Product Analytics Dashboard Documentation.pdf)
 
 ---
 
