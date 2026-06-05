@@ -164,7 +164,7 @@ Most products remained actively sold based on recency analysis
 ---
 
 📸 Dashboard Preview
-![Product Analytics Dashboard](Dashboards/Product_Analytics_Dashboard.png)
+![Product Analytics Dashboard](Dashboards/Product_Analytica_Dashboard.png)
 
 ---
 
