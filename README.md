@@ -123,14 +123,22 @@ Identified high-value customer groups
 Analyzed customer purchasing trends
 Measured customer engagement through recency analysis
 Evaluated revenue contribution by age and customer segment
+
+--- 
+
 📸 Dashboard Preview
 ![Customer Analytics Dashboard](Dashboards/Customer_Analytics_Dashboard.png)
+
+---
+
 📄 Documentation
 Customer Analytics Dashboard Summary
 KPI explanations
 Business questions & insights
 Chart interpretation
 [Customer Analytics Dashboard Documentation](docs/Customer_Analytics_Dashboard_Summary.pdf)
+
+---
 
 ## 📦 Product Analytics Dashboard
 
@@ -152,55 +160,73 @@ Bikes category generated the highest revenue
 High-performing products dominated overall sales
 Premium products contributed most business revenue
 Most products remained actively sold based on recency analysis
+
+---
+
 📸 Dashboard Preview
 ![Product Analytics Dashboard](Dashboards/Product_Analytics_Dashboard.png)
+
+---
+
 📄 Documentation
 Product Analytics Dashboard Summary
 Detailed KPI explanations
 Business insights
 Chart-level analysis
 [Product Analytics Dashboard Documentation](docs/Product_Analytics_Dashboard_Summary.pdf)
+
+---
+
 🛠️ Tech Stack
-Category	Technologies
-Database	PostgreSQL
-Query Language	SQL
-BI Tool	Tableau
-Version Control	Git & GitHub
-Architecture Design	Draw.io
-Documentation	Markdown
-Data Source	CSV Files
+- Category	Technologies
+- Database	PostgreSQL
+- Query Language	SQL
+- BI Tool	Tableau
+- Version Control	Git & GitHub
+- Architecture Design	Draw.io
+- Documentation	Markdown
+- Data Source	CSV Files
+
+--- 
+
 🛠️ Important Links & Tools
 
 Everything used in this project is completely free.
 
-Datasets → Access ERP & CRM datasets
-PostgreSQL → Database system
-pgAdmin → Database GUI tool
-GitHub → Version control & collaboration
-DrawIO → Architecture & data modeling diagrams
-Notion Project Workflow → Step-by-step project phases
-🚀 Project Requirements
-Building the Data Warehouse
-Objective
+- Datasets → Access ERP & CRM datasets
+- PostgreSQL → Database system
+- pgAdmin → Database GUI tool
+- GitHub → Version control & collaboration
+- DrawIO → Architecture & data modeling diagrams
+- Notion Project Workflow → Step-by-step project phases
+- 🚀 Project Requirements
+- Building the Data Warehouse
+
+---
+
+- # Objective
 
 Develop a modern analytical data warehouse capable of consolidating sales data from ERP and CRM systems for reporting and analytics.
 
-Specifications
-Import CSV datasets into PostgreSQL
-Clean and standardize raw datasets
-Build analytical data models
-Create business-ready reporting tables
-Optimize for analytical queries
-📈 BI Analytics & Reporting
-Objective
+- Specifications
+- Import CSV datasets into PostgreSQL
+- Clean and standardize raw datasets
+- Build analytical data models
+- Create business-ready reporting tables
+- Optimize for analytical queries
+- 📈 BI Analytics & Reporting
+
+---
+
+- # Objective
 
 Generate actionable business insights through SQL analytics and Tableau dashboards.
 
-Analytics Areas
-Customer Behavior
-Product Performance
-Sales Trends
-Revenue Analysis
-Recency Analysis
-Customer Segmentation
-Product Segmentation
+- Analytics Areas
+- Customer Behavior
+- Product Performance
+- Sales Trends
+- Revenue Analysis
+- Recency Analysis
+- Customer Segmentation
+- Product Segmentation
